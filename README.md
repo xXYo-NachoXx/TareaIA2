@@ -12,7 +12,8 @@ se requiere
 3. Ejecutarlo 
 
 
-#Nota: No es necesario agregar los datos al 
-# libro de Colab debido a que los mismos datos 
-# se obtienen del Git de uno de los estudiantes 
-# de la tarea 
+#Nota: 
+No es necesario agregar los datos al 
+ libro de Colab debido a que los mismos datos 
+se obtienen del Git de uno de los estudiantes 
+ de la tarea 
